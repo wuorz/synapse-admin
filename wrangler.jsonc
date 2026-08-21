@@ -1,0 +1,21 @@
+{
+
+    "$schema": "node_modules/wrangler/config-schema.json",
+
+    "name": "synapse-admin-test",
+
+    "compatibility_date": "2026-08-20",
+
+    "observability": {
+
+      "enabled": true
+
+    },
+
+    "assets": {
+
+      "directory": "public"
+
+    }
+
+  }
